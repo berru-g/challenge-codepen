@@ -1,0 +1,29 @@
+{
+    "articles": [
+      {
+        "title": "Nelson Mandela",
+        "content": "Épreuves : Mandela a passé 27 ans en prison pour son opposition à l'apartheid en Afrique du Sud. Enfermé et coupé du monde, il a vécu des conditions inhumaines.
+Force intérieure : Malgré cela, il a transformé sa colère en espoir et en action constructive. À sa libération, il a prôné la réconciliation nationale et est devenu le premier président noir d'Afrique du Sud.
+Inspiration : Il disait : Je ne perds jamais. Soit je gagne, soit j'apprends."
+      },
+      {
+        "title": "Helen Keller",
+        "content": "Épreuves : Aveugle et sourde dès l'âge de 19 mois, elle aurait pu vivre dans l'isolement total.
+Force intérieure : Grâce à l'aide d'Anne Sullivan, elle a appris à communiquer et est devenue écrivaine, conférencière et militante pour les droits des personnes handicapées.
+Inspiration : La vie est soit une aventure audacieuse, soit rien du tout."
+      },
+      {
+        "title": "Viktor Frankl",
+        "content": "Épreuves : Psychiatre autrichien et survivant de l'Holocauste, il a perdu sa famille dans les camps de concentration.
+Force intérieure : Frankl a utilisé son expérience pour développer la logothérapie, une méthode de psychothérapie centrée sur la recherche de sens dans les moments les plus sombres.
+Inspiration : Quand nous ne pouvons plus changer une situation, nous sommes mis au défi de nous changer nous-mêmes."
+      },
+      {
+        "title": "Malala Yousafzai",
+        "content": "Épreuves : Militante pakistanaise pour l'éducation des filles, elle a été victime d'une tentative d'assassinat par les talibans à 15 ans.
+Force intérieure : Elle a survécu et continue de plaider pour l'éducation à travers le monde, devenant la plus jeune lauréate du prix Nobel de la paix.
+Inspiration : Un enfant, un enseignant, un livre, un crayon peuvent changer le monde."
+      }
+    ]
+  }
+  
